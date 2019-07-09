@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d8cd20d2c5be96d48baee15a6f860894
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Montserrat Black
+  fontNames:
+  - Montserrat Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54577a999a19c1748906d3aadb9fa659, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
