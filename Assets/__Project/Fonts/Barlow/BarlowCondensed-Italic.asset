@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: BarlowCondensed-Italic
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: 2024181517
   material: {fileID: 21998363044255390}
-  materialHashCode: 0
+  materialHashCode: 302631526
   m_Version: 1.1.0
   m_SourceFontFileGUID: 8889553eabc38564d8e4df7da7c7db04
   m_SourceFontFile_EditorRef: {fileID: 0}
@@ -3053,9 +3053,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
